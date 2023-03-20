@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @siberus
+- 👋 Hi, I’m Vladislav
 - 🌱 I’m currently learning C++
