@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Vladislav
-- 🌱 I’m currently learning C++
+- 🌱 C++ and C# programmer.
